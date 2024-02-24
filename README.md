@@ -1,5 +1,7 @@
 # COMS3930-Module 1 
 
+## Loves me ...? Generative Art Installation
+
 Description:
 A series of flowers, each with a randomly generated number of petals, simulate the game ["he loves me, he loves me not."](https://en.wikipedia.org/wiki/He_loves_me..._he_loves_me_not)
  One flower is displayed at a time. Petals are picked off one-by-one, and a corresponding message of “[he, she, they, I] loves me” or “[he, she, they, I] loves me not” is shown, culminating in a final answer when the last petal is picked off. 
