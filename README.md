@@ -13,7 +13,7 @@ Hardware Materials:
 
 Installation Materials: 
 * Envelope
-* Battery? 
+* [Rechargeable Battery](https://www.makerfocus.com/products/4pcs-952540-3-7v-1000mah-battery-with-jst1-25-connector-lithium-rechargeable-battery)
 * Hole puncher
 * Electric drill
 * Tape
