@@ -27,7 +27,7 @@ Process:
 3. Upload code to device.
 4. Repeat steps 2 and 3 until graphic looks right (see in blogpost the technical challenge of drawing petals)
 5. Draw Yoshi design on envelope with pencil, then go over with colored pens (Note, at time of installation, only colored pens were available - second image is post-installation, colored in with colored pencils). 
-<img src="/drawing.png" width="100" alt="Alt text for image">
+<img src="/drawing.png" width="300" alt="Alt text for image">
 7. Drill a small hole in the middle of each popsicle stick.  
 8. Use the hole puncher to punch 2 holes in the envelope - one in the top left corner, and one in the top right corner. 
 9.  Cut 2 pieces of thread of equal length. Decide length based on how far you want the device to hang from the ceiling. 
