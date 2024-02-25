@@ -27,8 +27,9 @@ Process:
 3. Upload code to device.
 4. Repeat steps 2 and 3 until graphic looks right (see in blogpost the technical challenge of drawing petals)
 5. Draw Yoshi design on envelope with pencil, then go over with colored pens (Note, at time of installation, only colored pens were available - second image is post-installation, colored in with colored pencils). 
-6. Drill a small hole in the middle of each popsicle stick.  
-7. Use the hole puncher to punch 2 holes in the envelope - one in the top left corner, and one in the top right corner. 
-8.  Cut 2 pieces of thread of equal length. Decide length based on how far you want the device to hang from the ceiling. 
-9. Designate the 2 popsicle sticks to correspond with each of the 2 holes in the envelope. Similarly, designate the 2 pieces of thread with each of the 2 sticks/holes. Tie one end of each thread into its designated popsicle stick and the other end into its designated envelope hole. 
-10. Hang the device by slotting the popsicle sticks into the ceiling air vents! 
+![Example Image](/drawing.png)
+7. Drill a small hole in the middle of each popsicle stick.  
+8. Use the hole puncher to punch 2 holes in the envelope - one in the top left corner, and one in the top right corner. 
+9.  Cut 2 pieces of thread of equal length. Decide length based on how far you want the device to hang from the ceiling. 
+10. Designate the 2 popsicle sticks to correspond with each of the 2 holes in the envelope. Similarly, designate the 2 pieces of thread with each of the 2 sticks/holes. Tie one end of each thread into its designated popsicle stick and the other end into its designated envelope hole. 
+11. Hang the device by slotting the popsicle sticks into the ceiling air vents! 
