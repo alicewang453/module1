@@ -37,6 +37,9 @@ Process:
 7. Use the hole puncher to punch 2 holes in the envelope - one in the top left corner, and one in the top right corner.
 8. Cut 2 pieces of thread of equal length. Decide length based on how far you want the device to hang from the ceiling.
 9. Designate the 2 popsicle sticks to correspond with each of the 2 holes in the envelope. Similarly, designate the 2 pieces of thread with each of the 2 sticks/holes. Tie one end of each thread into its designated popsicle stick and the other end into its designated envelope hole.
+
+   <img src="/stick.png" width="400" alt="Alt text for image">
+    
 10. Hang the device by slotting the popsicle sticks into the ceiling air vent!
     
     <img src="/hungup.png" width="400" alt="Alt text for image">
