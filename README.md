@@ -28,7 +28,7 @@ Process:
 4. Repeat steps 2 and 3 until graphic looks right (see in blogpost the technical challenge of drawing petals)
 5. Draw Yoshi design on envelope with pencil, then go over with colored pens (Note, at time of installation, only colored pens were available - step 9's image is post-installation, colored in with colored pencils).
    
-   <img src="drawing.png" width="400" alt="Alt text for image">
+   <img src="/module1/images/drawing.png" width="400" alt="Alt text for image">
    
 7. Drill a small hole in the middle of each popsicle stick.
    
